@@ -1,0 +1,4 @@
+,top_alubit,top_master_slave,top_cont_assgn,top_full_adder,top_Shifter,top_Mealy,top_parallel_adder,top_Moore,top_structural
+Power,11.055,0.639,0.571,1.033,1.116,0.152,3.01,3.01,0.571
+Delay,13.83,4.767,5.835,5.985,4.41,4.34,6.809,6.809,5.835
+LUTs,131.0,1.0,1.0,1.0,1.0,6.0,4.0,4.0,1.0
